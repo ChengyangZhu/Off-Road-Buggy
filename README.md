@@ -10,5 +10,5 @@ The schematic of buggy
   <img width="500" height="300" src="https://user-images.githubusercontent.com/113228076/225460230-ed5566a4-4a57-46d0-a43d-900b6ecb3af8.jpg">
 </p>
 
-##Control Algorithm
+## Control Algorithm
 The closed loop based on PI control is utilized
